@@ -1,5 +1,5 @@
 # SPAM DETECTION SYSTEM
-This repository contains the implementation of a spam detection system developed using natural language processing (NLP) techniques. The system is designed to classify emails or text messages as either spam or legitimate (ham).
+A spam detection system developed using natural language processing (NLP) techniques. The system is designed to classify emails or text messages as either spam or legitimate (ham).
 # Features
 1. Utilizes the Natural Language Toolkit (NLTK) library for text preprocessing, including tokenization, stopword removal, and stemming.
 2. Implements a machine learning algorithm (e.g., Naive Bayes classifier) to classify messages based on their content.
