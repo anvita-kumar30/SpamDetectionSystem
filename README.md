@@ -11,7 +11,7 @@ The NLTK library is employed for various text preprocessing tasks:
 3. Stemming: Reducing words to their root form to improve consistency in text analysis.
 # Screenshots
 
-
+![img1](https://github.com/user-attachments/assets/e18146bb-67de-4b67-84aa-a9059af99dc0)
 
 
 
