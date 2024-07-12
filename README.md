@@ -12,7 +12,7 @@ The NLTK library is employed for various text preprocessing tasks:
 # Screenshots
 
 
-![image](https://github.com/sanjanalalwani/spamdetectionsystem/assets/109654794/c3e7a96b-5439-47ab-874b-fbd21e178564)
+
 ![image](https://github.com/sanjanalalwani/spamdetectionsystem/assets/109654794/d4b0c10a-b881-47c8-ae4e-7e22dfd3a9ea)
 
 
