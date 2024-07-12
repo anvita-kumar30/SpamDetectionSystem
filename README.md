@@ -15,4 +15,5 @@ The NLTK library is employed for various text preprocessing tasks:
 
 
 
+![img2](https://github.com/user-attachments/assets/60cbb544-342d-45d5-9d64-df6485b22f1e)
 
